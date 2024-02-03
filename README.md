@@ -11,7 +11,7 @@
 
 
 ## Index
-<br>
+
 [About IceWare](#about-IceWare) | [Supported Games](#Supported-Games) | [Loadstring](#Loadstring) | [Key System](#Key-System) | [Contact](#Contact) | [Donate](#Donate)<br><br><br>
  
 
@@ -28,7 +28,6 @@ wich i never expected as this was just a troll project at first.<br><br><br>
 
 
 ## Supported Games
-<br>
 <strong>Please note that IceWare is not made for mobile, if your mobile executor doesnt support the script please do not complain as its not a problem on our end. </strong><br>
 
 ```lua
@@ -40,7 +39,8 @@ Other supported games were removed because they were either outdated or cause of
 
 
 ## Loadstring
-<br>
+
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))() -- Please note this is the only official loadstring
 ```
