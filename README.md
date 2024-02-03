@@ -31,11 +31,11 @@ wich i never expected as this was just a troll project at first.
 
 ## Supported Games
 
-# Please note that IceWare is not made for mobile, if your mobile executor doesnt support the script please do not complain as its not a problem on our end.
+Please note that IceWare is not made for mobile, if your mobile executor doesnt support the script please do not complain as its not a problem on our end.
 
 
-
-Heres a list of supported Games
-
+```lua
 - Car Dealership Tycoon (OUTDATED)
+```
 
+Other supported games were removed because they were either outdated or cause of technical issues, we will re-add those games sometime in the future.
