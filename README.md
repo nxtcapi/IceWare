@@ -49,12 +49,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/
 
 
 ## Key System
-<b>IceWare</b> does not use a key system for the moment as our custom key system is <b>not</b> finished.
-This section will get updated whenever we finish the website, a tutorial on how to pass it will be included.<br><br>
-
+<strong><b>IceWare</b> does not use a key system for the moment as our custom key system is <b>not</b> finished.
+This section will get updated whenever we finish the website, a tutorial on how to pass it will be included.</strong>
+<br><br>
 
 ## Contact
-<br>
+
 If you would like to contact us for any type of issues or suggestions, please join our [Discord Server](https://discord.gg/jhF4mazZKa) and create a ticket.<br><br>
 
 ## Donate
