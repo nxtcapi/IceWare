@@ -42,7 +42,6 @@ Other supported games were removed because they were either outdated or cause of
 ## Loadstring
 <br>
 ```lua
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))() -- Please note this is the only official loadstring
 ```
 <br><br><br>
