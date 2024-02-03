@@ -49,6 +49,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/
 
 
 ## Key System
+<br>
 <strong><b>IceWare</b> does not use a key system for the moment as our custom key system is <b>not</b> finished.
 This section will get updated whenever we finish the website, a tutorial on how to pass it will be included.</strong>
 <br><br>
@@ -60,3 +61,6 @@ This section will get updated whenever we finish the website, a tutorial on how 
 ## Donate
 <br>
 <strong>As of now, <b>IceWare</b> is entirely free for its users, any type of donation would help us out. (Any type of 5$+ donation will get you a permanent key in our future key system)</strong><br>
+
+
+[BTC](https://www.blockchain.com/explorer/addresses/btc/bc1qfkhad068m34st0x6mnr38sv4qfegem2kngsuf6) | [ETH](https://www.blockchain.com/explorer/addresses/eth/0xAf82539c57484d736D77f5443CcBf24d8F471680) | [LTC](https://live.blockcypher.com/ltc/address/LauS3HTCLwsceEk3mY3gDniFzQW1Qr4xbU/) | [Solana](https://solanabeach.io/address/889cfehn7G2y6jx1kDHp8N56Rg5zt3nrzwStdHEaDS5C) 
