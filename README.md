@@ -28,7 +28,7 @@ wich i never expected as this was just a troll project at first.<br><br><br>
 
 
 ## Supported Games
-<strong>Please note that IceWare is not made for mobile, if your mobile executor doesnt support the script please do not complain as its not a problem on our end. </strong><br>
+<br><strong>Please note that IceWare is not made for mobile, if your mobile executor doesnt support the script please do not complain as its not a problem on our end. </strong><br>
 
 ```lua
 -- Car Dealership Tycoon (OUTDATED)
@@ -39,10 +39,11 @@ Other supported games were removed because they were either outdated or cause of
 
 
 ## Loadstring
-
+<br>
+<strong>Please note the loadstring below is the only official one. </strong><br>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))() -- Please note this is the only official loadstring
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))()
 ```
 <br><br><br>
 
