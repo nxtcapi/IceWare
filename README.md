@@ -1,12 +1,23 @@
-# IceWare 🧊
+> [!NOTE]
+> IW is not being updated at the moment in cause of the current situation of roblox exploiting.
 
-# Discord
+<div align="center">
+  
+  <p>
+    <a href="https://github.com/nxtcapi/IceWare/blob/main/loader.lua" target="_blank">
+      <img width="100%" src="https://raw.githubusercontent.com/nxtcapi/IceWare/main/media/iceware%20banner.png"></a>
+  </p>
 
-**https://discord.gg/BmGZkpPStY**
 
-# Loadstring
+## Table of Content
+[About IceWare](#about-IceWare) | [Supported Games](#Supported-Games) | [Loadstring](#features) | [Key System](#setup)
 
-IceWare Loadstring:
-```lua
-none yet
-```
+
+## About IceWare
+
+IceWare is a roblox exploiting script hub that was founded around december 2022. 
+It was a solo project at first but became a fun little project between me and a few friends of mine.
+In its lifetime, iw has been executed a bit over 1.5M+ time, wich i never expected as this was just a troll project at first.
+
+## Supported Games
+
