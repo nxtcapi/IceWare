@@ -55,7 +55,7 @@ This section will get updated whenever we finish the website, a tutorial on how 
 
 ## Contact
 
-If you would like to contact us for any type of issues or suggestions, please join our [Discord Server](https://discord.gg/jhF4mazZKa) and create a ticket.<br><br>
+<strong>If you would like to contact us for any type of issues or suggestions, please join our [Discord Server](https://discord.gg/jhF4mazZKa) and create a ticket.</strong><br><br>
 
 ## Donate
 <br>
