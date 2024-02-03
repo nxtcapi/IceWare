@@ -45,9 +45,18 @@ Other supported games were removed because they were either outdated or cause of
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))()
 ```
-<br><br><br>
+<br><br>
 
 
 ## Key System
 <b>IceWare</b> does not use a key system for the moment as our custom key system is <b>not</b> finished.
-This section will get updated whenever we finish the website, a tutorial on how to pass it will be included.
+This section will get updated whenever we finish the website, a tutorial on how to pass it will be included.<br><br>
+
+
+## Contact
+<br>
+If you would like to contact us for any type of issues or suggestions, please join our [Discord Server](https://discord.gg/jhF4mazZKa) and create a ticket.<br><br>
+
+## Donate
+<br>
+<strong>As of now, <b>IceWare</b> is entirely free for its users, any type of donation would help us out. (Any type of 5$+ donation will get you a permanent key in our future key system)</strong><br>
