@@ -12,7 +12,7 @@
 
 ## Index
 <br>
-[ About IceWare ](#about-IceWare) | [ Supported Games ](#Supported-Games) | [ Loadstring ](#Loadstring) | [ Key System ](#Key-System) | [ Contact ](#Contact) | [ Support ](#Contact)<br><br><br>
+[About IceWare](#about-IceWare) | [Supported Games](#Supported-Games) | [Loadstring](#Loadstring) | [Key System](#Key-System) | [Contact](#Contact) | [Donate](#Donate)<br><br><br>
  
 
 
@@ -42,7 +42,7 @@ Other supported games were removed because they were either outdated or cause of
 ## Loadstring
 <br>
 ```lua
-lua
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/IceWare/main/loader.lua",true))() -- Please note this is the only official loadstring
 ```
 <br><br><br>
