@@ -19,3 +19,9 @@ for ids, url in next, games do
         break
     end
 end
+setclipboard("https://discord.gg/r9qFGNjYe4")
+game.StarterGui:SetCore("SendNotification", {
+Title = "IceWare",
+Text = "Key Link has been copied to your clipboard",
+Duration = 60,
+})
